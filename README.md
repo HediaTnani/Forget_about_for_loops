@@ -473,3 +473,4 @@ merging with other datasets.
 7.  https://www.r-bloggers.com/2018/09/using-purrrs-map-family-functions-in-dplyrmutate/
 8.  https://henrywang.nl/transform-list-into-dataframe-with-tidyr-and-purrr/
 9.  https://www.painblogr.org/2020-06-19-purring-through-exploratory-analyses.html
+10. https://www.pluralsight.com/guides/explore-r-libraries:-purrr
