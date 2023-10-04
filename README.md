@@ -351,7 +351,7 @@ a specific type:
 
 Let’s say you have a list of data frames, and each data frame has the
 same structure—two columns named **`A`** and **`B`**. You want to create
-a new column **`C`** in each data frame, which is the sum of columns
+a new column **`Sum`** in each data frame, which is the sum of columns
 **`A`** and **`B`**.
 
 First, let’s create a list of data frames:
@@ -403,10 +403,6 @@ print(new_list_of_dfs[[1]])
 
 Why are we getting an error?
 
-\<div class=“alert alert-info”\>
-
-\<strong\>Note:\</strong\>
-
 -   When you have multiple lists (or vectors) and a function that can
     operate on multiple arguments, you can pass the lists directly to
     **`pmap`**.
@@ -415,7 +411,6 @@ Why are we getting an error?
     function that operates on a single argument, you need to wrap the
     list in another list to pass it to **`pmap`**.
 
-\</div\>
 
 #### `imap()`
 
