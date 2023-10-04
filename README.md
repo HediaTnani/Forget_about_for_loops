@@ -476,3 +476,4 @@ merging with other datasets.
 10. https://www.pluralsight.com/guides/explore-r-libraries:-purrr
 11. https://lar-purrr.netlify.app/#75
 12. https://www.gerkelab.com/blog/2018/09/import-directory-csv-purrr-readr/
+    
